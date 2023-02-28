@@ -1,2 +1,2 @@
 # ohheck_graphs
-Computing the 1-card win probabilities for various Oh, Heck card game configurations.
+Calculating 1-card probabilities for the card game "Oh, Heck"
