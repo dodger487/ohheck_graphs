@@ -145,7 +145,7 @@ ggsave("ohheck_postcard.png", width = 3.84, height = 5.84, units = "in")
 ## Send postcard
 
 library(ggirl)
-contact_email <- "christopher.riederer+ggirl@gmail.com"
+contact_email <- "blair.waldorf@example.com"
 
 send_address_1 <- address(name = "YOUR NAME HERE",
                           address_line_1 = "1136 Fifth Avenue",
